@@ -1,0 +1,141 @@
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe.config
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.Form1.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmInicio.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmLogin.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmSplash.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.Properties.Resources.resources
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csproj.GenerateResource.Cache
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.exe
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.pdb
+D:\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe.config
+D:\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.exe
+D:\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.pdb
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe.config
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.exe
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.pdb
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.pdb
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.dll
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.dll
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.pdb
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.pdb
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csprojResolveAssemblyReference.cache
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.Form1.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmArmazem.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmEmpresa.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmFuncionarios.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmInicio.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmLogin.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmRelatorios.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmSplash.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmVendas.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.Properties.Resources.resources
+F:\Nova pasta\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csproj.GenerateResource.Cache
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe.config
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.exe
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.pdb
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.pdb
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.dll
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.dll
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.pdb
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.pdb
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csprojResolveAssemblyReference.cache
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.Form1.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmArmazem.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmEmpresa.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmFuncionarios.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmInicio.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmLogin.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmRelatorios.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmSplash.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmVendas.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.Properties.Resources.resources
+H:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csproj.GenerateResource.Cache
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe.config
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.exe
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.pdb
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.pdb
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.dll
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.dll
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.pdb
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.pdb
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csprojResolveAssemblyReference.cache
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.Form1.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmArmazem.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmEmpresa.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmFuncionarios.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmInicio.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmLogin.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmRelatorios.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmSplash.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmVendas.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.Properties.Resources.resources
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csproj.GenerateResource.Cache
+D:\confidencias\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe.config
+D:\confidencias\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.exe
+D:\confidencias\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe.config
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.exe
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.dll
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.dll
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.Form1.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmInicio.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmLogin.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmSplash.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.Properties.Resources.resources
+C:\Users\Caixa\Videos\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csproj.GenerateResource.Cache
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe.config
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.exe
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.exe
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\SistemaFarmacia.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.dll
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.dll
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Controllers.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Release\Model.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.Form1.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmActualizacoes.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmInicio1.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmListaProdutos.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmLogin1.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.Properties.Resources.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Release\SistemaFarmacia.csproj.GenerateResource.Cache

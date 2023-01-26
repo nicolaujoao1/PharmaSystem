@@ -1,0 +1,7 @@
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Release\Controllers.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Release\Controllers.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Release\Model.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Release\Model.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\obj\Release\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\obj\Release\Controllers.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\obj\Release\Controllers.pdb

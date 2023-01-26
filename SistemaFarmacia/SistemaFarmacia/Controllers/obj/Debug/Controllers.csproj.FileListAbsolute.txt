@@ -1,0 +1,28 @@
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb

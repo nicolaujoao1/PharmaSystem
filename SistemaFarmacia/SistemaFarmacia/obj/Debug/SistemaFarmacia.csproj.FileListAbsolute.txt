@@ -1,0 +1,241 @@
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplash.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio1.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin1.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmListaProdutos.resources
+C:\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmActualizacoes.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmActualizacoes.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio1.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmListaProdutos.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin1.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+C:\Projecto final para a defesa escolar\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache
+D:\_\todos os projecto actualizados\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+D:\_\todos os projecto actualizados\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+D:\_\todos os projecto actualizados\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmActualizacoes.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio1.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmListaProdutos.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin1.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmActualizacoes.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio1.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmListaProdutos.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin1.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmActualizacoes.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio1.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmListaProdutos.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin1.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmActualizacoes.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio1.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmListaProdutos.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin1.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmActualizacoes.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio1.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmListaProdutos.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin1.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmActualizacoes.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio1.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmListaProdutos.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin1.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe.config
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.exe
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.pdb
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.exe
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\SistemaFarmacia.pdb
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.dll
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.dll
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Controllers.pdb
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\bin\Debug\Model.pdb
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.Form1.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmActualizacoes.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmArmazem.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmDesenvolvedor.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmEmpresa.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmFuncionarios.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmInicio1.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmListaProdutos.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmLogin1.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmRelatorios.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmSplashOriginal.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.NewForms.frmVendas.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.Properties.Resources.resources
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\SistemaFarmacia\SistemaFarmacia\obj\Debug\SistemaFarmacia.csproj.GenerateResource.Cache

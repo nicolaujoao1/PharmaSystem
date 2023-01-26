@@ -1,0 +1,15 @@
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Model\bin\Release\Model.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Model\bin\Release\Model.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Model\obj\Release\Model.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Model\obj\Release\Model.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\bin\Release\Model.dll
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\bin\Release\Model.pdb
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\obj\Release\Model.dll
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\obj\Release\Model.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\Model\bin\Release\Model.dll
+C:\Sistema de Farmacia\ProjecyoFinal\Model\bin\Release\Model.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Sistema de Farmacia\ProjecyoFinal\Model\obj\Release\Model.dll
+C:\Sistema de Farmacia\ProjecyoFinal\Model\obj\Release\Model.pdb

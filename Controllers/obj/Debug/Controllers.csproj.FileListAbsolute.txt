@@ -1,0 +1,126 @@
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Controllers\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Videos\Ilola Nicolau Joao Projects\SistemaFar 1 - Copia\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pr. Pembele\Music\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Deodato\OneDrive\Documentos\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Deodato\OneDrive\Documentos\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Deodato\OneDrive\Documentos\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Deodato\OneDrive\Documentos\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Deodato\OneDrive\Documentos\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Deodato\OneDrive\Documentos\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Deodato\OneDrive\Documentos\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+G:\confidencias\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+G:\confidencias\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+G:\confidencias\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+G:\confidencias\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+G:\confidencias\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+G:\confidencias\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+G:\confidencias\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Caixa\Videos\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Caixa\Videos\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Caixa\Videos\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Caixa\Videos\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Caixa\Pictures\Shared\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Caixa\Pictures\Shared\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Caixa\Pictures\Shared\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Caixa\Pictures\Shared\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Caixa\Pictures\Shared\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Caixa\Pictures\Shared\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Caixa\Pictures\Shared\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+D:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+F:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.dll
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.dll
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Controllers\bin\Debug\Model.pdb
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.dll
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Controllers\obj\Debug\Controllers.pdb

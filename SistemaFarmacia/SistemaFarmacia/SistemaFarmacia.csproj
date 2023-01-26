@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0A524428-1812-4236-BE6C-E58011A2B59F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaFarmacia</RootNamespace>
+    <AssemblyName>SistemaFarmacia</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Survival_Bag.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\HTML\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\SoftwareFarma.VIEW\bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ControlesFactura\ComponentesFactura.cs" />
+    <Compile Include="ControlesFactura\CriarDirectorio.cs" />
+    <Compile Include="ControlesFactura\FacturaProForma.cs" />
+    <Compile Include="ControlesFactura\RelatorioFinal.cs" />
+    <Compile Include="ControlesFactura\RelatorioFuncionario.cs" />
+    <Compile Include="ControlesFactura\RelatorioVendas.cs" />
+    <Compile Include="NewForms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmActualizacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmActualizacoes.Designer.cs">
+      <DependentUpon>frmActualizacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmArmazem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmArmazem.Designer.cs">
+      <DependentUpon>frmArmazem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmDesenvolvedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmDesenvolvedor.Designer.cs">
+      <DependentUpon>frmDesenvolvedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmEmpresa.Designer.cs">
+      <DependentUpon>frmEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmFuncionarios.Designer.cs">
+      <DependentUpon>frmFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmInicio1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmInicio1.Designer.cs">
+      <DependentUpon>frmInicio1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmListaProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmListaProdutos.Designer.cs">
+      <DependentUpon>frmListaProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmLogin1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmLogin1.Designer.cs">
+      <DependentUpon>frmLogin1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmRelatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmRelatorios.Designer.cs">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmSplashOriginal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmSplashOriginal.Designer.cs">
+      <DependentUpon>frmSplashOriginal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForms\frmVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForms\frmVendas.Designer.cs">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="NewForms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmActualizacoes.resx">
+      <DependentUpon>frmActualizacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmArmazem.resx">
+      <DependentUpon>frmArmazem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmDesenvolvedor.resx">
+      <DependentUpon>frmDesenvolvedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmEmpresa.resx">
+      <DependentUpon>frmEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmFuncionarios.resx">
+      <DependentUpon>frmFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmInicio1.resx">
+      <DependentUpon>frmInicio1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmListaProdutos.resx">
+      <DependentUpon>frmListaProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmLogin1.resx">
+      <DependentUpon>frmLogin1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmRelatorios.resx">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmSplashOriginal.resx">
+      <DependentUpon>frmSplashOriginal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForms\frmVendas.resx">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guest Male_99px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Controllers\Controllers.csproj">
+      <Project>{cca94a2f-904f-437d-8bfc-8da4c47235b7}</Project>
+      <Name>Controllers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Model\Model.csproj">
+      <Project>{1192a055-9f78-42de-9a91-6ddd8a284e0a}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Name_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guest Male_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admini.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\activo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\max.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Source Code_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout Rounded Up_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_45px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_45px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconalta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configuracoes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Report Card_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tasks_100px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Timeline_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accounting_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bullish_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Presentation_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_19px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh_19px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_19px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money Bag_19px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_19px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print_19px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Groups_19px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping Cart_19px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Feed Paper_19px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Organization_19px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgFarma-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\37450-pharmacist-will-call-medical-animation.gif" />
+    <Content Include="Survival_Bag.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

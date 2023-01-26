@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{CCA94A2F-904F-437D-8BFC-8DA4C47235B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{1192A055-9F78-42DE-9A91-6DDD8A284E0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaFarmacia", "SistemaFarmacia\SistemaFarmacia\SistemaFarmacia.csproj", "{0A524428-1812-4236-BE6C-E58011A2B59F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA94A2F-904F-437D-8BFC-8DA4C47235B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA94A2F-904F-437D-8BFC-8DA4C47235B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA94A2F-904F-437D-8BFC-8DA4C47235B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA94A2F-904F-437D-8BFC-8DA4C47235B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1192A055-9F78-42DE-9A91-6DDD8A284E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1192A055-9F78-42DE-9A91-6DDD8A284E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1192A055-9F78-42DE-9A91-6DDD8A284E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1192A055-9F78-42DE-9A91-6DDD8A284E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A524428-1812-4236-BE6C-E58011A2B59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A524428-1812-4236-BE6C-E58011A2B59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A524428-1812-4236-BE6C-E58011A2B59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A524428-1812-4236-BE6C-E58011A2B59F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

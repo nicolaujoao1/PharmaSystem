@@ -1,0 +1,5 @@
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\obj\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\obj\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,53 @@
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\bin\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\bin\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\obj\Debug\Model.dll
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\obj\Debug\Model.pdb
+C:\Users\Pr. Pembele\Videos\SistemaFar\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\bin\Debug\Model.dll
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\bin\Debug\Model.pdb
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\obj\Debug\Model.dll
+J:\Diego\sistema actualizado da farmacia\ProjecyoFinal\Model\obj\Debug\Model.pdb
+G:\confidencias\ProjecyoFinal\Model\bin\Debug\Model.dll
+G:\confidencias\ProjecyoFinal\Model\bin\Debug\Model.pdb
+G:\confidencias\ProjecyoFinal\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\confidencias\ProjecyoFinal\Model\obj\Debug\Model.dll
+G:\confidencias\ProjecyoFinal\Model\obj\Debug\Model.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\Model\bin\Debug\Model.dll
+C:\Users\Caixa\Videos\ProjecyoFinal\Model\bin\Debug\Model.pdb
+C:\Users\Caixa\Videos\ProjecyoFinal\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Caixa\Videos\ProjecyoFinal\Model\obj\Debug\Model.dll
+C:\Users\Caixa\Videos\ProjecyoFinal\Model\obj\Debug\Model.pdb
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Model\bin\Debug\Model.dll
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Model\bin\Debug\Model.pdb
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Model\obj\Debug\Model.dll
+C:\Users\Sebastião & filhos\Pictures\ProjecyoFinal\Model\obj\Debug\Model.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.dll
+C:\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.pdb
+C:\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.dll
+C:\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.pdb
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.dll
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.pdb
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.dll
+H:\_\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.pdb
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.dll
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.pdb
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.dll
+C:\Users\Pedro\Documents\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.pdb
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.dll
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.pdb
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.dll
+C:\Users\Pedro\Pictures\Ebenezer Atual\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.pdb
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.dll
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.pdb
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.dll
+C:\Users\Ebenezer Luyindula\Documents\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.pdb
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.dll
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Model\bin\Debug\Model.pdb
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.dll
+C:\Users\Adilson Garcia Dev\Pictures\programas\Sistema Farmacia Ebenezer\Sistema de Farmacia\ProjecyoFinal\Model\obj\Debug\Model.pdb
